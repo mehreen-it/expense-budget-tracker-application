@@ -112,12 +112,7 @@ const App = () => {
         }}
       >
         <h2>FinTrack</h2>
-        <nav style={{ marginTop: "2rem" }}>
-          <p>Dashboard</p>
-          <p>Add Transactions</p>
-          <p>View Transactions</p>
-          <p>Delete Transactions</p>
-        </nav>
+
       </div>
 
       {/* Main content */}
