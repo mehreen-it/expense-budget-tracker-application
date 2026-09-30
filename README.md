@@ -1,11 +1,11 @@
-# 💰 Expense Tracking & Budget Management Application
+# Expense Tracking & Budget Management Application
 
 > **Full-Stack Web Application**
 > A modern expense and budget management application built using **React**, **Node.js**, and **Express.js** with RESTful APIs for managing financial data.
 
 ---
 
-## 📖 Overview
+## Overview
 
 This repository contains a **full-stack expense and budget management application** developed to help users efficiently manage their personal finances by tracking income, expenses, and budgets.
 
@@ -13,19 +13,19 @@ The application provides a responsive user interface built with **React**, suppo
 
 ---
 
-## ✨ Features
+## Features
 
-* ✅ Add, edit, and delete expense records
-* ✅ Budget management functionality
-* ✅ RESTful API integration
-* ✅ Server-side input validation
-* ✅ Structured error handling
-* ✅ Responsive user interface
-* ✅ Clean and maintainable application architecture
+* Add, edit, and delete expense records
+* Budget management functionality
+* RESTful API integration
+* Server-side input validation
+* Structured error handling
+* Responsive user interface
+* Clean and maintainable application architecture
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ### Frontend
 
@@ -48,7 +48,7 @@ The application provides a responsive user interface built with **React**, suppo
 
 ---
 
-## 🧪 API Testing
+## API Testing
 
 The application's REST APIs were tested using **Postman** to verify:
 
@@ -62,7 +62,7 @@ Testing ensured that backend services behaved correctly under both valid and inv
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 This project helped strengthen my understanding of full-stack software development by giving me practical experience in:
 
@@ -76,7 +76,7 @@ This project helped strengthen my understanding of full-stack software developme
 
 ---
 
-## 🎥 Demonstration
+## Demonstration
 
 A demonstration video showcasing the application's features, user interface, and API functionality is included with this repository.
 
@@ -84,7 +84,7 @@ The demo highlights key workflows including creating, updating, and managing exp
 
 ---
 
-## 🌱 Reflection
+## Reflection
 
 This project strengthened my understanding of how frontend and backend technologies work together to build complete web applications.
 
